@@ -1,0 +1,70 @@
+body{
+    background-color:#3d3329;
+}
+.bodyright{
+    width: 50%;
+	margin-left:30%;
+}
+.bodyright .head {
+	text-align:center;
+	color: #f29e88;
+}
+.bodyright p{
+    color: black;
+    font-size: 40px;
+    font-weight: normal;
+    text-align: left;
+    font-weight: 200;
+ 
+}
+.reg{
+    font-size: 25px;
+    font-weight: normal;
+}
+.registration{
+    font-size: 22px;
+    font-weight: 100;
+}
+.registration p{
+    font-size: 15px;
+    width: 380px;
+}
+.radius1{
+    border-radius: 5px;
+    height: 35px;
+    font-size: 20px;
+    padding: 5px;
+    margin-left: 0px;
+    width: 450px;
+}
+.need{
+    font-size: 15px;
+    text-decoration: none;
+    margin-left: 15px;
+	color:red;
+}
+.need:hover{
+    color: darkblue;
+    text-decoration: underline;
+}
+.radius{
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px; 
+    border-radius: 5px;
+    height: 35px;
+    width: 450px;
+    font-size: 20px;
+    padding: 5px;
+    margin-left: 0px;
+}
+.title { 
+    font-family: 'Helvetica Neue'; 
+    color:white;
+    background-color: darkgreen; 
+    font-weight:normal; 
+    text-align:center; 
+    font-size:27px;
+    width: auto;
+    line-height: 30px;
+    border-radius: 5px; 
+}
